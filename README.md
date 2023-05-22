@@ -1,2 +1,1 @@
-# oed
-Oppgjør etter dødsfall
+Issue template
